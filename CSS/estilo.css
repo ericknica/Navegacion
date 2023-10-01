@@ -1,0 +1,35 @@
+header {
+
+    background-color: brown;
+    display: flex;
+
+}
+img {
+    width: 100px;
+    height: 100px;
+    padding: 8px;
+    float: left;
+
+
+}
+nav {
+    margin: 8px;
+    padding: 8px;
+    float: right;
+   
+   
+}
+
+nav ul li {
+
+    list-style: none;
+    margin-left: 75px;
+    float: left;
+    
+}
+
+nav ul li a {
+    color: black;
+    text-decoration: none;
+    
+}
